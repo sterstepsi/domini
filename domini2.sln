@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "domini2", "domini2.vcxproj", "{196E07BD-F81A-4418-8723-9463D4C93743}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{06F073B3-8C48-46A5-B559-B563BEF4A5B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{196E07BD-F81A-4418-8723-9463D4C93743}.Debug|x64.ActiveCfg = Debug|x64
+		{196E07BD-F81A-4418-8723-9463D4C93743}.Debug|x64.Build.0 = Debug|x64
+		{196E07BD-F81A-4418-8723-9463D4C93743}.Debug|x86.ActiveCfg = Debug|Win32
+		{196E07BD-F81A-4418-8723-9463D4C93743}.Debug|x86.Build.0 = Debug|Win32
+		{196E07BD-F81A-4418-8723-9463D4C93743}.Release|x64.ActiveCfg = Release|x64
+		{196E07BD-F81A-4418-8723-9463D4C93743}.Release|x64.Build.0 = Release|x64
+		{196E07BD-F81A-4418-8723-9463D4C93743}.Release|x86.ActiveCfg = Release|Win32
+		{196E07BD-F81A-4418-8723-9463D4C93743}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE5AB458-DC1B-4B3B-80D5-CFB9FCB3AAF1}
+	EndGlobalSection
+EndGlobal
